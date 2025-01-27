@@ -1,0 +1,26 @@
+
+eCommerce Transactions Analysis
+
+Business Insights from EDA
+
+1. Regional Revenue Distribution
+North America contributes the most to revenue (~40%), followed by Europe (30%) and Asia (20%). This shows that sales are uneven across regions, and there’s potential to increase sales in Asia with better marketing.
+
+2. Best-Selling Products
+The Electronics category makes up most of the revenue (~50%). Books and Clothing are also popular but generate less income. Focusing on electronics and promoting other categories might help balance sales.
+
+3. Older Customers Are More Valuable
+Customers who signed up before 2022 spend more ($300 per transaction) compared to newer customers ($180). This means older customers are more loyal and valuable, so retention efforts should target them.
+
+4. Sales Spike in Q4
+Sales go up a lot during October to December (Q4), likely because of the holiday season. Offering discounts and promotions during this time can increase revenue even more.
+
+5. Price and Quantity Relationship
+Lower-priced products (<$50) sell in large quantities, while high-priced products ($500+) sell fewer units but contribute a lot to revenue. A mix of both types is important to appeal to different customers.
+
+Conclusion and Recommendations
+	1.	Advertise more in regions like Asia to grow sales there.
+	2.	Promote high-margin categories like Electronics but don’t ignore smaller ones.
+	3.	Reward loyal customers with special discounts or offers.
+	4.	Focus on holiday promotions in Q4 to maximize revenue.
+	5.	Keep a mix of affordable and premium products for all types of customers.
